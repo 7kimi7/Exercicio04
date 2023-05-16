@@ -1,0 +1,27 @@
+/**Fundo: #17062A
+Campo input: #1E0836
+Fundo dos botões: #1E0836  
+Botão numeros: #331B4D
+Numeros: #FFF14C
+Borda botão numeros: #851C9C
+Botão Del e Reset: #56077C
+Borda botão Del e Reset: #BF15F4
+Botão Theme e = : #00DECF
+Borda botão = : #6EFAF1**/
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: #17062A;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_left{
+    color: #FFF14C;
+}
+.theme{
+    color: #FFF14C;
+}
